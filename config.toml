@@ -1,0 +1,4 @@
+baseURL = "http://blog.trungtin.dev/"
+languageCode = "en-us"
+title = "Trung Tin's place"
+theme = "kiera"
